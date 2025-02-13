@@ -1,5 +1,6 @@
 package webbansach_backend.com.entity;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 import lombok.Data;
 import java.util.List;

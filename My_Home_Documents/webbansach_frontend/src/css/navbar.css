@@ -1,0 +1,19 @@
+.logout-css {
+    color: rgb(209, 205, 205);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .logout-css:hover {
+    color: #fafafa; /* Khi hover, chữ có màu trắng sáng hơn */
+  }
+
+  .theLoai-css{
+    color: rgb(209, 205, 205);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .theLoai-css:hover {
+    color: #fafafa; /* Khi hover, chữ có màu trắng sáng hơn */
+  }
